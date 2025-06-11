@@ -257,4 +257,5 @@ https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEID
 https://veridas.com/en/what-is-zero-trust/
 https://sdcsecurity.com/mantrap-systems.htm
 https://pt.linkedin.com/pulse/honeypots-heitor-henrique-hernandez-matos
+https://www.youtube.com/watch?v=yPqSLJG8Rt0&ab_channel=TechnicalInstituteofAmerica
 
