@@ -1,6 +1,6 @@
 # SecurityPlus-Comptia
 
-This repository contains my study notes and resources for the CompTIA Security+ certification; 
+This repository contains my study notes and resources for the CompTIA Security+ certification. It covers key domains and concepts essential for understanding and implementing effective security practices, including: 
 
 
 **Mastering Security Basics;**
@@ -31,19 +31,25 @@ ________________________________________________________________________________
 
 **Zero Trust**
 
-![image](https://github.com/user-attachments/assets/cbfcdc9f-d020-43a2-ba20-9cb4ddc60415)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cbfcdc9f-d020-43a2-ba20-9cb4ddc60415" alt="1" width="200" />
+</p>
 
 **Bollards**
 
 **Mantrap**
 
-![image](https://github.com/user-attachments/assets/af5e5102-cf11-41f1-ad2e-31ebb605a89c)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af5e5102-cf11-41f1-ad2e-31ebb605a89c" alt="1" width="200" />
+</p>
 
 **Honeypot**
-![image](https://github.com/user-attachments/assets/c6891673-a82c-4867-a66d-fe2bc057137a)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6891673-a82c-4867-a66d-fe2bc057137a" alt="1" width="200" />
+</p>
+
+
 
 __________________________________________________________________________________________
 
